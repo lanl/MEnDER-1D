@@ -10,10 +10,10 @@ Ellipsoid_Initialize.m, Wire_Initialize.m, and Truncated_Wire_Initialize.m, call
 MEnDER_1D_DE.m is the main function to reconstruct a set of input proton images using DE, calling the NewPopulation.m function to generate populations of solution candidates. 
 
 radialweightedHist.m is a simple function to generate the final pseudo-1D proton intensity maps (weighted by initial and final image position) within MEnDER_1D_DE.m.
----
+
 
 These tools were used to generate the results displayed in: J. M. Levesque and L. J. Beesley, “Reconstructing magnetic deflections from sets of proton images using differential evolution,” RSI 2021.
----
+
 
 © 2021. Triad National Security, LLC. All rights reserved.
 This program was produced under U.S. Government contract 89233218CNA000001 for Los Alamos National Laboratory (LANL), which is operated by Triad National Security, LLC for the U.S. Department of Energy/National Nuclear Security Administration. All rights in the program are reserved by Triad National Security, LLC, and the U.S. Department of Energy/National Nuclear Security Administration. The Government is granted for itself and others acting on its behalf a nonexclusive, paid-up, irrevocable worldwide license in this material to reproduce, prepare derivative works, distribute copies to the public, perform publicly and display publicly, and to permit others to do so.
